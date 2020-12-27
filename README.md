@@ -21,8 +21,8 @@ This code was prominently modified by MrDude on 27/12/2020
 
 ## Building TinWoo
 Use Plutonium from here (Put in include folder):
-https://github.com/HookedBehemoth/Plutonium/tree/301413d86fc3dbcbd99dea44b12d7df2977e8be1
+[Plutonium](https://github.com/HookedBehemoth/Plutonium/tree/301413d86fc3dbcbd99dea44b12d7df2977e8be1)
 
 
 You will also need to install libusbhsfs from here:
-https://github.com/DarkMatterCore/libusbhsfs
+[libusbhsfs](https://github.com/DarkMatterCore/libusbhsfs)
