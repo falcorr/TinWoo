@@ -4,18 +4,18 @@
             "sd": "Installer à partir de la carte SD",
             "net": "Installer à partir d'un LAN ou d'internet",
             "usb": "Installer à partir d'un périphèrique USB",
-			"hdd": "Install over USB HDD",
+			"hdd": "Installer à partir d'un Disque dur USB",
             "sig": "Gérer les patchs de signatures",
             "set": " Paramètres",
             "exit": " Quitter"
         },
 		"theme": {
             "title": "Use Theme",
-            "desc": "Press OK to quit Tinwoo or Cancel to continue.\n\nThemes will activate the next time you start Tinwoo."
+            "desc": "Appuyez sur OK pour quitter Tinwoo ou sur Annuler pour continuer.\n\nLes thèmes s'activeront la prochaine fois que vous lancerez Tinwoo."
 		},
 		"hdd": {
-			"title": "USB HDD",
-			"notfound": "USB HDD is not connected."
+			"title": "Disque dur USB",
+			"notfound": "Le disque dur USB n'est pas connecté."
 		},
         "net": {
             "title": "Connection au réseau impossible",
@@ -81,15 +81,15 @@
         },
         "hd": {
             "help": {
-                "title": "Help",
-                "desc": "Copy your NSP, NSZ, XCI, or XCZ files to your hard drive, browse to and\nselect the ones you want to install, then press the Plus button."
+                "title": "Aide",
+                "desc": "Copier votre NSP, NSZ, XCI, ou XCZ files dans votre disque dur, parcourir et\nsélectionnez le fichier que vous voulez installer, puis appuyer sur la touche [+]."
             },
-            "top_info": "Select the files you want to install, then press the Plus button!",
-            "source_string": " from hard drive",
-            "delete_info": " installed\nDelete it from the hard drive?",
-            "delete_info_multi": " files installed successfully!\nDelete them from the hard drive?",
-            "delete_desc": "The original files aren't needed anymore after they've been installed",
-            "buttons": "\ue0e0 Select File    \ue0e3 Select All    \ue0ef Install File(s)    \ue0e2 Help    \ue0e1 Cancel"
+            "top_info": "Sélectionnez les fichiers que vous voulez installer, puis appuyez sur la touche [+] !",
+            "source_string": " à partir du disque dur",
+            "delete_info": " Installeer\nSupprimer le fichier à partir du disque dur ?",
+            "delete_info_multi": " fichiers installés avec succès !\nLes supprimer du disque dur ?",
+            "delete_desc": "Les fichiers originaux ne sont plus nécessaires une fois qu'ils ont été installés",
+            "buttons": "\ue0e0 Sélectionnez un fichier    \ue0e3 Tout sélectionner    \ue0ef Installer un/des fichier(s)    \ue0e2 Aide    \ue0e1 Annuler"
         },
         "usb": {
             "help": {
